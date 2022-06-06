@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,WACE,wBAA8B,CAC/B,aAGC,iBAAkB","file":"main.ac343358.chunk.css","sourcesContent":[".container {\n  background-color: antiquewhite;\n}\n\n.btn-primary {\n  margin-right: 10px;\n}\n"]}
